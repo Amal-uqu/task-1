@@ -1,0 +1,40 @@
+
+h1 {
+  text-align: center;
+  color: Black;
+  font-family: 'Shadows Into Dark';
+  font-style: normal;
+  font-weight: 400;
+}
+
+h {
+  text-align: center;
+  color: red;
+  font-family: 'Shadows Into Light';
+  font-style: normal;
+  font-weight: 200;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: line;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+div {
+  background-color: gray; 
+  border: line;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
